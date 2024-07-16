@@ -48,9 +48,9 @@ This will start the development server at http://localhost:9000. Open this URL i
 
 To build the app for production:
 
-bash
-Copy code
-npm run build
+   ```bash
+   npm run build
+   ```
 This will create a production-ready build in the dist directory.
 ### File Structure
 
