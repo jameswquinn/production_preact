@@ -39,7 +39,7 @@ This project demonstrates a multi-page web application built using Preact with l
 
          This will start the development server at http://localhost:9000. Open this URL in your browser to view the app.
 
-Production Build
+### Production Build
 To build the app for production:
 
 bash
