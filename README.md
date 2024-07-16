@@ -48,6 +48,7 @@ This project demonstrates a multi-page web application built using Preact with l
   .eslintrc.js        # ESLint configuration
   postcss.config.js   # PostCSS configuration
   README.md           # Project information (you are here)
+  ```
 ### Addition Notes
 
 - This project uses Webpack for bundling assets and configuring development/production builds.
