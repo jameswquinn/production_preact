@@ -63,6 +63,9 @@ This project demonstrates a multi-page web application built using Preact with l
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ### Acknowledgments
+- Preact
+- Wouter
+- Webpack
 ### Contributing
 Contributions are welcome! Please feel free to submit issues and pull requests.
 
