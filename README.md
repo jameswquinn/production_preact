@@ -15,7 +15,7 @@ This project demonstrates a multi-page web application built using Preact with l
 
 - Node.js and npm (or yarn) installed on your machine.
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
