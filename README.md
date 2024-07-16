@@ -30,7 +30,8 @@ This project demonstrates a multi-page web application built using Preact with l
 ### Usage
 
 Development Mode:
-To start the development server with hot-reloading:
+
+   To start the development server with hot-reloading:
 
    ```bash
    npm start
