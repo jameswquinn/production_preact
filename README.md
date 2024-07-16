@@ -33,6 +33,6 @@ This project demonstrates a multi-page web application built using Preact with l
 ### Addition Notes
 ### License
 ### Acknowledgments
+### Contributing
 
-Acknowledgments
 
