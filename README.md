@@ -31,6 +31,11 @@ This project demonstrates a multi-page web application built using Preact with l
 ### Production Build
 ### File Structure
 ### Addition Notes
+
+- This project uses Webpack for bundling assets and configuring development/production builds.
+- ESLint is configured to ensure code quality and consistency.
+- PostCSS with Autoprefixer is used for styling.
+- Ensure Node.js and npm/yarn are up to date to avoid compatibility issues.
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ### Acknowledgments
