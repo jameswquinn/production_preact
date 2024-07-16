@@ -32,6 +32,7 @@ This project demonstrates a multi-page web application built using Preact with l
 ### File Structure
 ### Addition Notes
 ### License
+This project is licensed under the MIT License - see the LICENSE file for details.
 ### Acknowledgments
 ### Contributing
 Contributions are welcome! Please feel free to submit issues and pull requests.
