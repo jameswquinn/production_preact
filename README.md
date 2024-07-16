@@ -37,9 +37,9 @@ This project demonstrates a multi-page web application built using Preact with l
 Development Mode
 To start the development server with hot-reloading:
 
-bash
 
-      ```bash
+
+   ```bash
    npm start
    ```
 This will start the development server at http://localhost:9000. Open this URL in your browser to view the app.
