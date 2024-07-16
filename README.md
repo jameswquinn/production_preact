@@ -27,7 +27,6 @@ This project demonstrates a multi-page web application built using Preact with l
    ```bash
    npm install
 
-   yarn install
 
 Usage
 Development Mode
