@@ -30,6 +30,22 @@ This project demonstrates a multi-page web application built using Preact with l
 ### Usage
 ### Production Build
 ### File Structure
+/your-project
+  /dist        # Compiled files (auto-generated on build)
+  /src         # Source files
+    /components  # React components
+    /pages       # Page components
+    index.js     # Entry point
+    index.html   # HTML template
+  webpack.common.js   # Common Webpack configuration
+  webpack.dev.js      # Development Webpack configuration
+  webpack.prod.js     # Production Webpack configuration
+  webpack.config.js   # Webpack configuration selector
+  package.json        # Project dependencies and scripts
+  .babelrc            # Babel configuration
+  .eslintrc.js        # ESLint configuration
+  postcss.config.js   # PostCSS configuration
+  README.md           # Project information (you are here)
 ### Addition Notes
 
 - This project uses Webpack for bundling assets and configuring development/production builds.
