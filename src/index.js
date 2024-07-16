@@ -1,4 +1,4 @@
-import { h } from 'preact';
+import { h, lazy, Suspense } from 'preact';
 import { render } from 'preact';
 import { Router, Route } from 'wouter';
 import Header from './components/Header';
