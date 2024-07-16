@@ -25,9 +25,9 @@ This project demonstrates a multi-page web application built using Preact with l
 2. Install dependencies:
 
    ```bash
-npm install
-or
-yarn install
+   npm install
+   or
+   yarn install
 
 Usage
 Development Mode
