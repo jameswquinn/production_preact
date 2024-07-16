@@ -30,6 +30,8 @@ This project demonstrates a multi-page web application built using Preact with l
 ### Usage
 ### Production Build
 ### File Structure
+
+   ```bash
 /your-project
   /dist        # Compiled files (auto-generated on build)
   /src         # Source files
