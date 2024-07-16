@@ -31,4 +31,6 @@ This project demonstrates a multi-page web application built using Preact with l
 ### Production Build
 ### File Structure
 ### Addition Notes
+### License
+License
 
