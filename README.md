@@ -34,6 +34,6 @@ This project demonstrates a multi-page web application built using Preact with l
 ### License
 ### Acknowledgments
 ### Contributing
-   Contributions are welcome! Please feel free to submit issues and pull requests.
+Contributions are welcome! Please feel free to submit issues and pull requests.
 
 
