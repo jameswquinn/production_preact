@@ -24,13 +24,12 @@ This project demonstrates a multi-page web application built using Preact with l
    cd preact-multi-page-lazy-loading
 Install dependencies:
 
-bash
-Copy code
+   ```bash
 npm install
 or
 
-bash
-Copy code
+   ```bash
+
 yarn install
 Usage
 Development Mode
