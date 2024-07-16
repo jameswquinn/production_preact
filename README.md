@@ -27,10 +27,8 @@ Install dependencies:
    ```bash
 npm install
 or
-
-   ```bash
-
 yarn install
+
 Usage
 Development Mode
 To start the development server with hot-reloading:
