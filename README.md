@@ -22,7 +22,7 @@ This project demonstrates a multi-page web application built using Preact with l
    ```bash
    git clone https://github.com/yourusername/preact-multi-page-lazy-loading.git
    cd preact-multi-page-lazy-loading
-Install dependencies:
+2. Install dependencies:
 
    ```bash
 npm install
