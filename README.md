@@ -37,7 +37,7 @@ This project demonstrates a multi-page web application built using Preact with l
    npm start
 
 
-         This will start the development server at http://localhost:9000. Open this URL in your browser to view the app.
+This will start the development server at http://localhost:9000. Open this URL in your browser to view the app.
 
 ### Usage
 To build the app for production:
