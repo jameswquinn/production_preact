@@ -33,7 +33,7 @@ This project demonstrates a multi-page web application built using Preact with l
    yarn install
    ```
 
-### Usage
+## Usage
 Development Mode
 To start the development server with hot-reloading:
 
