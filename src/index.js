@@ -1,5 +1,5 @@
-import { h, lazy, Suspense } from 'preact';
-import { render } from 'preact';
+import { h, render } from 'preact';
+import { Suspense, lazy } from "preact/compat";
 import { Router, Route } from 'wouter';
 import Header from './components/Header';
 import './styles/main.scss';
