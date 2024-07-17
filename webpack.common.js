@@ -1,6 +1,5 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const ESLintPlugin = require('eslint-webpack-plugin');
 const webpack = require('webpack');
 
 module.exports = {
@@ -64,9 +63,6 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: './src/index.html',
       minify: process.env.NODE_ENV === 'production',
-    }),
-    new ESLintPlugin({
-      extensions: ['js', 'jsx', 'ts', 'tsx'],
     }),
   ],
 };
